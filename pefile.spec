@@ -4,7 +4,7 @@
 #
 Name     : pefile
 Version  : 2016.3.28
-Release  : 1
+Release  : 2
 URL      : https://github.com/erocarrera/pefile/files/192316/pefile-2016.3.28.tar.gz
 Source0  : https://github.com/erocarrera/pefile/files/192316/pefile-2016.3.28.tar.gz
 Summary  : Python PE parsing module
