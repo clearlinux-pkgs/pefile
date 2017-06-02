@@ -1,5 +1,5 @@
 PKG_NAME := pefile
-URL := https://github.com/erocarrera/pefile/files/192316/pefile-2016.3.28.tar.gz
-ARCHIVES :=
+URL := https://github.com/erocarrera/pefile/archive/v2017.5.26.tar.gz
+
 
 include ../common/Makefile.common
